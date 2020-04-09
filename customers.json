@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Serban",
+        "cart": [
+            "Sandwish", "Snickers", "Monster"
+        ]
+    },
+    {
+        "name": "Florin",
+        "cart": [
+            "Hamburger", "Beer", "Banana"
+        ]
+    },
+    {
+        "name": "Cristina",
+        "cart": [
+            "Fruit Juice", "Banana", "Banana"
+        ]
+    },
+    {
+        "name": "Vlad",
+        "cart": [
+            "Pizza", "Beer", "Mars"
+        ]
+    },
+    {
+        "name": "Horia",
+        "cart": [
+            "Hamburger", "Coca Cola", "Hot Dog", "Mars"
+        ]
+    }
+]

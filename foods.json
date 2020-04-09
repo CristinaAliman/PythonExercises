@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Sushi", "type": "main", "price": 2
+    },
+    {
+        "name": "Sandwish", "type": "main", "price": 1.4
+    },
+    {
+        "name": "Pizza", "type": "main", "price": 4
+    },
+    {
+        "name": "Hot Dog", "type": "main", "price": 1.8
+    },
+    {
+        "name": "Hamburger", "type": "main", "price": 1.9
+    },
+    {
+        "name": "Cheesburger", "type": "main", "price": 2.1
+    },
+    {
+        "name": "Snickers", "type": "snack", "price": 1.2
+    },
+    {
+        "name": "Mars", "type": "snack", "price": 1.1
+    },
+    {
+        "name": "Banana", "type": "snack", "price": 0.4
+    },
+    {
+        "name": "Chips", "type": "snack", "price": 0.8
+    },
+    {
+        "name": "Monster", "type": "drink", "price": 1.2
+    },
+    {
+        "name": "Coco Cola", "type": "drink", "price": 1
+    },
+    {
+        "name": "Beer", "type": "drink", "price": 1.5
+    },
+    {
+        "name": "Fruit Juice", "type": "drink", "price": 0.9
+    }
+]
