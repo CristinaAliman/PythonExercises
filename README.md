@@ -16,3 +16,19 @@ List of customers: `customers.json`
 5. Write a script that determine how much money did the shop make during lunch break WITH meal deal promotion
 6. Write a script that determine how much money did the shop make during lunch break WITHOU meal deal promotion
 7. Determine if the meal deal promotion was a success or not?
+
+Function to import and parse a json file:
+```python
+import json
+
+with open('data.json', 'r') as json_file:
+    date = json.load(json_file)
+```
+
+Function to write json file:
+```python
+import json
+
+with open('output.json', 'w') as json_file:
+    json.dump(data, json_file)
+```
